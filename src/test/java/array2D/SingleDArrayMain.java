@@ -1,4 +1,4 @@
-package Array;
+package array2D;
 
 public class SingleDArrayMain 
 {

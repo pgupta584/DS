@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 
 public class FactorialTest2 {
 	//using iteration - long code but memory and space efficient Because system stack will not be utilize
