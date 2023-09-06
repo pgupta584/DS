@@ -1,4 +1,4 @@
-package queue;
+package dsa.queue;
 
 public class PriorityQueue {
     ListNode front;

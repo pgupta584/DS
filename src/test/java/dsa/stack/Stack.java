@@ -1,6 +1,4 @@
-package stack;
-
-import java.util.EmptyStackException;
+package dsa.stack;
 
 // Implement Stack Using Linked List
 // Stack means 1-->2-->5-->7

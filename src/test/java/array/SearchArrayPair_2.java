@@ -1,4 +1,4 @@
-package fresherprogram.array;
+package array;
 
 public class SearchArrayPair_2 {
     public static void main(String[] args) {
